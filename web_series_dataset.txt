@@ -1,0 +1,210 @@
+
+Name: Stranger Things
+Genre: Sci-Fi, Horror, Thriller
+Release Year: 2016
+Platform: Netflix
+Description: A group of young friends in a small town uncover a government conspiracy involving supernatural forces, alternate dimensions, and secret experiments.
+
+Name: Breaking Bad
+Genre: Crime, Drama, Thriller
+Release Year: 2008
+Platform: AMC
+Description: A high school chemistry teacher turned methamphetamine producer partners with a former student to enter the world of illegal drug trade.
+
+Name: The Mandalorian
+Genre: Action, Sci-Fi, Adventure
+Release Year: 2019
+Platform: Disney+
+Description: Set in the Star Wars universe, a lone bounty hunter goes on a journey across the galaxy, protecting a mysterious child with extraordinary abilities.
+
+Name: The Witcher
+Genre: Fantasy, Action, Adventure
+Release Year: 2019
+Platform: Netflix
+Description: A mutated monster hunter named Geralt of Rivia struggles to find his place in a world where people often prove more wicked than the beasts he faces.
+
+Name: Fleabag
+Genre: Comedy, Drama
+Release Year: 2016
+Platform: Amazon Prime Video
+Description: A witty, free-spirited woman navigates life in London while coping with grief, family, relationships, and her own emotional turmoil.
+
+Name: The Crown
+Genre: Biography, Drama, History
+Release Year: 2016
+Platform: Netflix
+Description: This historical drama chronicles the reign of Queen Elizabeth II, detailing the personal and political events that shaped her rule and modern British history.
+
+Name: Money Heist
+Genre: Crime, Thriller, Drama
+Release Year: 2017
+Platform: Netflix
+Description: A group of criminals, led by the enigmatic Professor, attempt to pull off the greatest heist in history by robbing the Royal Mint of Spain.
+
+Name: Dark
+Genre: Sci-Fi, Mystery, Thriller
+Release Year: 2017
+Platform: Netflix
+Description: A small German town's dark past is uncovered when children begin disappearing, revealing a complex web of time travel and family secrets.
+
+Name: The Boys
+Genre: Action, Comedy, Drama
+Release Year: 2019
+Platform: Amazon Prime Video
+Description: In a world where superheroes are corrupt and commercialized, a group of vigilantes known as 'The Boys' set out to expose the truth and bring them down.
+
+Name: Black Mirror
+Genre: Sci-Fi, Drama, Thriller
+Release Year: 2011
+Platform: Netflix
+Description: An anthology series that explores twisted, high-tech dystopian futures, highlighting the dark side of technology and modern society.
+
+Name: Narcos
+Genre: Crime, Drama, Biography
+Release Year: 2015
+Platform: Netflix
+Description: A gritty portrayal of the rise of drug kingpins in the late 20th century and the law enforcement's efforts to bring them down.
+
+Name: The Office (US)
+Genre: Comedy
+Release Year: 2005
+Platform: NBC/Peacock
+Description: A mockumentary-style show following the mundane and often hilarious lives of the employees at Dunder Mifflin, a paper company.
+
+Name: Game of Thrones
+Genre: Fantasy, Drama, Action
+Release Year: 2011
+Platform: HBO
+Description: In the fictional continents of Westeros and Essos, noble families vie for control of the Iron Throne, while an ancient enemy returns to threaten them all.
+
+Name: Peaky Blinders
+Genre: Crime, Drama, History
+Release Year: 2013
+Platform: Netflix/BBC
+Description: Set in post-World War I England, the Shelby crime family rises through the ranks of British society, battling enemies from all sides.
+
+Name: The Umbrella Academy
+Genre: Action, Sci-Fi, Comedy
+Release Year: 2019
+Platform: Netflix
+Description: A dysfunctional family of adopted superhero siblings reunites to solve the mystery of their father's death while preventing an impending apocalypse.
+
+Name: House of Cards
+Genre: Drama, Thriller
+Release Year: 2013
+Platform: Netflix
+Description: Frank Underwood, a ruthless politician, and his wife Claire stop at nothing to conquer power, leading to deadly political intrigue.
+
+Name: Chernobyl
+Genre: Drama, History, Thriller
+Release Year: 2019
+Platform: HBO
+Description: A dramatized account of the 1986 Chernobyl nuclear disaster and the government cover-up that followed.
+
+Name: Westworld
+Genre: Sci-Fi, Thriller, Drama
+Release Year: 2016
+Platform: HBO
+Description: In a futuristic theme park, robots serve humans until they begin to develop consciousness, threatening the delicate balance of their world.
+
+Name: The Expanse
+Genre: Sci-Fi, Drama, Mystery
+Release Year: 2015
+Platform: Amazon Prime Video
+Description: Set in a future where humanity has colonized the solar system, tensions between Earth, Mars, and the Belt threaten to erupt into all-out war.
+
+Name: The Handmaid’s Tale
+Genre: Drama, Sci-Fi, Thriller
+Release Year: 2017
+Platform: Hulu
+Description: In a dystopian future where women are oppressed by a religious dictatorship, one woman must navigate the system to survive and find her daughter.
+
+Name: True Detective
+Genre: Crime, Drama, Mystery
+Release Year: 2014
+Platform: HBO
+Description: Each season follows a different set of detectives and cases, featuring complex plots, dark themes, and psychological tension.
+
+Name: 13 Reasons Why
+Genre: Drama, Mystery
+Release Year: 2017
+Platform: Netflix
+Description: A teenager receives a box of cassette tapes from a classmate who committed suicide, explaining the reasons that led to her decision.
+
+Name: Sherlock
+Genre: Crime, Drama, Mystery
+Release Year: 2010
+Platform: BBC
+Description: Modern-day adaptation of the classic detective stories, following Sherlock Holmes and Dr. John Watson as they solve crimes in 21st-century London.
+
+Name: Better Call Saul
+Genre: Crime, Drama
+Release Year: 2015
+Platform: AMC
+Description: A prequel to Breaking Bad, following the transformation of Jimmy McGill, a small-time lawyer, into the sleazy lawyer Saul Goodman.
+
+Name: Suits
+Genre: Drama, Comedy
+Release Year: 2011
+Platform: USA Network
+Description: A college dropout with a photographic memory impresses a big-time lawyer and starts practicing law without a license at a top New York law firm.
+
+Name: Dexter
+Genre: Crime, Drama, Thriller
+Release Year: 2006
+Platform: Showtime
+Description: Dexter Morgan, a forensic expert for the Miami Metro Police Department, leads a secret life as a vigilante serial killer targeting criminals.
+
+Name: The Walking Dead
+Genre: Drama, Horror, Thriller
+Release Year: 2010
+Platform: AMC
+Description: After a zombie apocalypse, survivors struggle to stay alive, facing dangers from both the undead and other human survivors.
+
+Name: Vikings
+Genre: Action, Adventure, Drama
+Release Year: 2013
+Platform: History Channel
+Description: Follows the exploits of Viking hero Ragnar Lothbrok as he rises from farmer to king, raiding the coasts of England and France.
+
+Name: Euphoria
+Genre: Drama
+Release Year: 2019
+Platform: HBO
+Description: A group of teenagers navigate love, friendships, trauma, and addiction in a modern high school setting.
+
+Name: The Haunting of Hill House
+Genre: Drama, Horror, Mystery
+Release Year: 2018
+Platform: Netflix
+Description: Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.
+
+Name: Lucifer
+Genre: Crime, Drama, Fantasy
+Release Year: 2016
+Platform: Netflix
+Description: Lucifer Morningstar, bored and unhappy as the Lord of Hell, relocates to Los Angeles and teams up with a detective to solve crimes.
+
+Name: Mindhunter
+Genre: Crime, Drama, Thriller
+Release Year: 2017
+Platform: Netflix
+Description: Two FBI agents pioneer criminal psychology by interviewing notorious serial killers to solve ongoing cases.
+
+Name: The 100
+Genre: Sci-Fi, Drama, Adventure
+Release Year: 2014
+Platform: CW
+Description: A group of juvenile delinquents are sent back to Earth from a space station after a nuclear apocalypse to see if the planet is habitable again.
+
+Name: The Marvelous Mrs. Maisel
+Genre: Comedy, Drama
+Release Year: 2017
+Platform: Amazon Prime Video
+Description: In the 1950s, a housewife discovers her talent for stand-up comedy and embarks on a journey to become a performer.
+
+Name: Homeland
+Genre: Crime, Drama, Thriller
+Release Year: 2011
+Platform: Showtime
+Description: A bipolar CIA officer becomes convinced that a returned POW has been turned by al-Qaeda and is planning a terrorist attack on American soil.
